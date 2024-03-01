@@ -2,7 +2,7 @@
   "name": "testviolent",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RuslanSharipov63/github.io/testvalantis",
+  "homepage": "https://RuslanSharipov63.github.io/testvalantis",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
